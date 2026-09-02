@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\ApiGateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\ApiGateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Historial.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Historial.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Services\\RabbitMQConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Services\\RabbitMQConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Models\\HistorialClinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Models\\HistorialClinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Events\\PacienteCreadoEvento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Events\\PacienteCreadoEvento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Data\\HistorialDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Data\\HistorialDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Controllers\\HistorialController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\Controllers\\HistorialController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Pacientes.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Pacientes.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Pacientes.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Pacientes.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Services\\RabbitMQPublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Services\\RabbitMQPublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Models\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Models\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Data\\PacientesDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Data\\PacientesDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Controllers\\PacientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pacientes.Api\\Controllers\\PacientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Scripts\\BasesDeDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\BasesDeDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Historial.Api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Scripts\\BasesDeDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\BasesDeDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiGateway.http",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\ApiGateway.http",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.http",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\ApiGateway.http",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-26T04:56:21.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Historial.Api.http",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Historial.Api.http",
+              "RelativeDocumentMoniker": "Historial.Api\\Historial.Api.http",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Historial.Api.http",
+              "RelativeToolTip": "Historial.Api\\Historial.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-26T04:56:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistorialClinico.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Models\\HistorialClinico.cs",
+              "RelativeDocumentMoniker": "Historial.Api\\Models\\HistorialClinico.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Models\\HistorialClinico.cs",
+              "RelativeToolTip": "Historial.Api\\Models\\HistorialClinico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:55:35.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistorialDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Data\\HistorialDBContext.cs",
+              "RelativeDocumentMoniker": "Historial.Api\\Data\\HistorialDBContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Data\\HistorialDBContext.cs",
+              "RelativeToolTip": "Historial.Api\\Data\\HistorialDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:17:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Services\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "Historial.Api\\Services\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Services\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "Historial.Api\\Services\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:18:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Historial.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\appsettings.json",
+              "RelativeToolTip": "Historial.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T04:18:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Historial.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Program.cs",
+              "RelativeToolTip": "Historial.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:19:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:20:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T04:20:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T04:20:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "Historial.Api\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "Historial.Api\\Controllers\\HistorialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:18:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pacientes.Api.http",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Pacientes.Api.http",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Pacientes.Api.http",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Pacientes.Api.http",
+              "RelativeToolTip": "Pacientes.Api\\Pacientes.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-26T04:55:17.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pacientes.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Pacientes.Api.csproj",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Pacientes.Api.csproj",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Pacientes.Api.csproj",
+              "RelativeToolTip": "Pacientes.Api\\Pacientes.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-26T04:55:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Program.cs",
+              "RelativeToolTip": "Pacientes.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:55:11.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Historial.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Dockerfile",
+              "RelativeToolTip": "Historial.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T04:19:33.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Pacientes.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\appsettings.json",
+              "RelativeToolTip": "Pacientes.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T04:55:06.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Dockerfile",
+              "RelativeToolTip": "Pacientes.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T04:55:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\.dockerignore",
+              "RelativeDocumentMoniker": "Pacientes.Api\\.dockerignore",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\.dockerignore",
+              "RelativeToolTip": "Pacientes.Api\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T04:54:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacienteCreadoEvento.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Events\\PacienteCreadoEvento.cs",
+              "RelativeDocumentMoniker": "Historial.Api\\Events\\PacienteCreadoEvento.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\Events\\PacienteCreadoEvento.cs",
+              "RelativeToolTip": "Historial.Api\\Events\\PacienteCreadoEvento.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:18:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Models\\Paciente.cs",
+              "RelativeToolTip": "Pacientes.Api\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:54:38.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PacientesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Data\\PacientesDBContext.cs",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Data\\PacientesDBContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Data\\PacientesDBContext.cs",
+              "RelativeToolTip": "Pacientes.Api\\Data\\PacientesDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:54:36.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BasesDeDatos.sql ",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Scripts\\BasesDeDatos.sql",
+              "RelativeDocumentMoniker": "Scripts\\BasesDeDatos.sql",
+              "ToolTip": "BasesDeDatos.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-08-26T04:49:52.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Pacientes.Api\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:42:42.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Services\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "Pacientes.Api\\Services\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Pacientes.Api\\Services\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "Pacientes.Api\\Services\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:37:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\.dockerignore",
+              "RelativeDocumentMoniker": "ApiGateway\\.dockerignore",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\ApiGateway\\.dockerignore",
+              "RelativeToolTip": "ApiGateway\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T04:20:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\.dockerignore",
+              "RelativeDocumentMoniker": "Historial.Api\\.dockerignore",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\practica_dockercompose_pacientes\\Historial.Api\\.dockerignore",
+              "RelativeToolTip": "Historial.Api\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-26T04:19:49.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\ApiGateway",
+    "\\Historial.Api\\Controllers",
+    "\\Historial.Api\\Data",
+    "\\Historial.Api\\Events",
+    "\\Historial.Api\\Models",
+    "\\Historial.Api\\Services",
+    "\\Pacientes.Api\\Controllers",
+    "\\Pacientes.Api\\Data",
+    "\\Pacientes.Api\\Models",
+    "\\Pacientes.Api\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
