@@ -86,7 +86,7 @@ BaseDatos/HistorialDB.sql
 ### 1. Clonar el proyecto
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/mateojosue17lozada-spec/DIST-4BM-B3-AD01-DockerCompose-RabbitMQApiGateway-Lozada-Mateo.git
 cd proyectoDockercomposeconEDARABBITMQAPIGATEWAY
 ```
 
